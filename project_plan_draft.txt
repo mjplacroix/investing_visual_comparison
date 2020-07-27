@@ -1,0 +1,45 @@
+# see if you can request historical prices
+-----------------------------------------------------------------------------
+
+# build a SQLlite database for storing prices
+
+# if so 
+# add TSLA - NFLX - GOOGL - BRK.Bs   - SPY - IWB (Russell 1000) stocks to query
+# query history of Magic Form stocks from Google sheets
+    # even 104 weeks * 150 stocks = 15,600 < 50,000/month limit
+# get API from etherscan to get last 2 years of ETH prices
+
+# load all the above into the SQLlite database
+
+
+# SQL query for 
+    - ETH
+    - TESLA - NETFLIX - ALPHABET
+    - MagForm stocks
+        - 2015 - https://seekingalpha.com/article/4222627-magic-formula-2015-to-2018-lessons-learned
+        - 2016 - https://seekingalpha.com/article/4027533-greenblatt-wizardry-quantitative-look-magic-formula
+        - 2017 - https://seekingalpha.com/article/4115291-wizardry-for-2017-magic-formula-large-cap-strategy-update-2017-ytd
+        - 2018 - https://youtu.be/HfaMTmI7SuA?t=366
+        - not sure how to do this one yet
+        - start with original 36
+            - roughly equally weighted investments in each
+        - replace random 6 with another random 6 every 2 months
+            - attempt equally weighted investments (check Magic Formula book again)
+        
+# get all the above in a csv
+# import and visualize as
+    - 1/3 - 1/3 - 1/3
+# plot your 3 against BRK - SPY - crypto - Magic Form (alone) - IWB (Russell 1000)
+    # try matplotlib & seaborn
+# plot your 1/3 strategy against BRK & SPY 
+    # try matplotlib & seaborn
+
+# review unit 3 to try getting it deployed
+    # initially to a free site
+    # then to your own TLDR if it works
+
+# include essay on your site (& and on new site) describing this whole process
+
+
+# once process is complete, clean up your repo
+# join scrape.py & reader.py
