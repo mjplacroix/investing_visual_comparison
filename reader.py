@@ -5,7 +5,7 @@
 tickers = []
 
 # open file and read the content in a list
-with open('stock_list_4.txt', 'r') as stock_list:
+with open('stock_list_5.txt', 'r') as stock_list:
     for line in stock_list:
         # remove linebreak which is the last character of the string
         currentPlace = line[:-1]
@@ -14,11 +14,12 @@ with open('stock_list_4.txt', 'r') as stock_list:
         tickers.append(currentPlace)
 
 from iexfinance.stocks import Stock
-
-for symbol in tickers:
-    a = Stock(f"{symbol}", token="sk_49ed011aeb6240df92907389567c5159")
-    price = a.get_quote()
-    print(symbol, price["latestPrice"])
+f
+""" block is included in for loop below """
+# for symbol in tickers:
+#     a = Stock(f"{symbol}", token="sk_49ed011aeb6240df92907389567c5159")
+#     price = a.get_quote()
+#     print(symbol, price["latestPrice"])
 
 import csv
 from datetime import date
@@ -26,6 +27,7 @@ from datetime import date
 today = date.today()
 d3 = today.strftime("%m_%d_%y")
 
+# get lastest price day of
 with open(f'm{d3}.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Ticker", f"{d3}"])
@@ -35,6 +37,8 @@ with open(f'm{d3}.csv', 'w', newline='') as file:
         price = info["latestPrice"]
         print(symbol, price)
         writer.writerow([symbol, f"{price}"])
+
+
 
 
 # # Iterate over key/value pairs in dict and print them

@@ -34,7 +34,7 @@ print(tickers)
 for ticker in tickers:
     print(ticker)
 
-with open('stock_list_4.txt', 'w') as stock_list:
+with open('stock_list_5.txt', 'w') as stock_list:
     for ticker in tickers:
         stock_list.write('%s\n' % ticker)
 

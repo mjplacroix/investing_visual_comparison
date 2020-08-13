@@ -37,6 +37,7 @@
 # review unit 3 to try getting it deployed
     # initially to a free site
     # then to your own TLDR if it works
+    # plotly app? https://github.com/BrianThomasRoss/cookiecutter-dash-app
 
 # include essay on your site (& and on new site) describing this whole process
 
