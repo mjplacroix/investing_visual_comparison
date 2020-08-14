@@ -13,16 +13,9 @@ with open('stock_list_5.txt', 'r') as stock_list:
         # add item to the list
         tickers.append(currentPlace)
 
-from iexfinance.stocks import Stock
-f
-""" block is included in for loop below """
-# for symbol in tickers:
-#     a = Stock(f"{symbol}", token="sk_49ed011aeb6240df92907389567c5159")
-#     price = a.get_quote()
-#     print(symbol, price["latestPrice"])
-
 import csv
 from datetime import date
+from iexfinance.stocks import Stock, get_historical_data, iexcloud-messages-used
 
 today = date.today()
 d3 = today.strftime("%m_%d_%y")
@@ -32,13 +25,11 @@ with open(f'm{d3}.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Ticker", f"{d3}"])
     for symbol in tickers:
-        a = Stock(f"{symbol}", token="sk_49ed011aeb6240df92907389567c5159")
+        a = Stock(f"{symbol}")
         info = a.get_quote()
         price = info["latestPrice"]
-        print(symbol, price)
+        print(symbol, price, iexcloud-messages-used)
         writer.writerow([symbol, f"{price}"])
-
-
 
 
 # # Iterate over key/value pairs in dict and print them

@@ -13,6 +13,9 @@ beautifulsoup4 = "*"
 yfinance = "*"
 lxml = "*"
 iexfinance = "*"
+ri = "*"
+python-decouple = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
