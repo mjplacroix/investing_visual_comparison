@@ -1,4 +1,10 @@
-# see if you can request historical prices
+# secure your IEXfinance variables in a .env that's hidden by .gitignore
+
+# relevant code in sandbox.py & prices_api.py
+- python example here: https://iexcloud.io/docs/api/#signed-requests
+    - use sandbox testing
+    - utilize a Request/Response object: https://requests.readthedocs.io/en/latest/api/#requests.Response
+
 -----------------------------------------------------------------------------
 
 # build a SQLlite database for storing prices
