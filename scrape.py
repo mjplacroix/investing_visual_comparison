@@ -7,6 +7,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import csv
 import pandas as pd
+from datetime import date
 
 browser = webdriver.Firefox()
 type(browser)
@@ -34,7 +35,11 @@ print(tickers)
 for ticker in tickers:
     print(ticker)
 
-with open('stock_list_5.txt', 'w') as stock_list:
+
+today = date.today()
+d3 = today.strftime("%m_%d_%y")
+
+with open(f'm{d3}.csv', 'w') as stock_list:
     for ticker in tickers:
         stock_list.write('%s\n' % ticker)
 
