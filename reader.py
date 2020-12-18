@@ -1,11 +1,18 @@
 # remeber to start/load pip environment
 # > pipenv shell
+import csv
+from datetime import date
+from iexfinance.stocks import Stock, get_historical_data
 
-# define an empty list
+today = date.today()
+d3 = today.strftime("%m_%d_%y")
+
+
+# # define an empty list
 tickers = []
 
 # open file and read the content in a list
-with open('stock_list_5.txt', 'r') as stock_list:
+with open(f'm{d3}.csv', 'r') as stock_list:
     for line in stock_list:
         # remove linebreak which is the last character of the string
         currentPlace = line[:-1]
@@ -13,12 +20,12 @@ with open('stock_list_5.txt', 'r') as stock_list:
         # add item to the list
         tickers.append(currentPlace)
 
-import csv
-from datetime import date
-from iexfinance.stocks import Stock, get_historical_data, iexcloud-messages-used
+# import csv
+# from datetime import date
+# from iexfinance.stocks import Stock, get_historical_data
 
-today = date.today()
-d3 = today.strftime("%m_%d_%y")
+# today = date.today()
+# d3 = today.strftime("%m_%d_%y")
 
 # get lastest price day of
 with open(f'm{d3}.csv', 'w', newline='') as file:
@@ -28,7 +35,7 @@ with open(f'm{d3}.csv', 'w', newline='') as file:
         a = Stock(f"{symbol}")
         info = a.get_quote()
         price = info["latestPrice"]
-        print(symbol, price, iexcloud-messages-used)
+        print(symbol, price)
         writer.writerow([symbol, f"{price}"])
 
 

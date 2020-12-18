@@ -25,6 +25,8 @@ linkElem.click()
 
 tickers = []
 for i in range(1, 31):
+    # error appeared on this line on 11-27-20
+    # did NOT occur the next week 12-04-20
     ticker = browser.find_element_by_xpath(f'/html/body/div[1]/div[4]/div/div[1]/div[2]/div[3]/div[1]/div/div/div/div/div/div/div/div/div/table/tbody/tr[{i}]/td[2]').text
     tickers.append(ticker)
 # take in a string
