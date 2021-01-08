@@ -41,7 +41,7 @@ for ticker in tickers:
 today = date.today()
 d3 = today.strftime("%m_%d_%y")
 
-with open(f'm{d3}.csv', 'w') as stock_list:
+with open(f'{d3}.csv', 'w') as stock_list:
     for ticker in tickers:
         stock_list.write('%s\n' % ticker)
 

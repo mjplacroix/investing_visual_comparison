@@ -1,4 +1,3 @@
-A,P,T
 M,O
 A,M,C,X
 B,I,I,B
@@ -12,6 +11,7 @@ D,L,H,C
 G,I,L,D
 H,S,I,I
 H,P,Q
+I,D,T
 I,N,V,A
 L,F,V,N
 M,I,K
@@ -21,8 +21,8 @@ O,M,C
 P,R,D,O
 R,P,R,X
 S,I,G,A
+S,T,R,A
 S,U,P,N
-T,V,T,Y
 U,I,S
 V,G,R
 V,Y,G,R
