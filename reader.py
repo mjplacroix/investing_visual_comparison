@@ -5,14 +5,14 @@ from datetime import date
 from iexfinance.stocks import Stock, get_historical_data
 
 today = date.today()
-d3 = today.strftime("%m_%d_%y")
+date = today.strftime("%m_%d_%y")
 
 
 # # define an empty list
 tickers = []
 
 # open file and read the content in a list
-with open(f'm{d3}.csv', 'r') as stock_list:
+with open(f'm{date}.csv', 'r') as stock_list:
     for line in stock_list:
         # remove linebreak which is the last character of the string
         currentPlace = line[:-1]
@@ -25,12 +25,12 @@ with open(f'm{d3}.csv', 'r') as stock_list:
 # from iexfinance.stocks import Stock, get_historical_data
 
 # today = date.today()
-# d3 = today.strftime("%m_%d_%y")
+# date = today.strftime("%m_%d_%y")
 
 # get lastest price day of
-with open(f'm{d3}.csv', 'w', newline='') as file:
+with open(f'm{date}.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["Ticker", f"{d3}"])
+    writer.writerow(["Ticker", f"{date}"])
     for symbol in tickers:
         a = Stock(f"{symbol}")
         info = a.get_quote()
