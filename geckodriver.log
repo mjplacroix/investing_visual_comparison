@@ -1096,3 +1096,498 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1612555077585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileW4mI62"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612555080618	Marionette	INFO	Listening on port 50338
+1612555080791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612555163467	Marionette	INFO	Stopped listening on port 50338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613153242299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile4HtDtq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613153246288	Marionette	INFO	Listening on port 53264
+1613153246532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613153270674	Marionette	INFO	Stopped listening on port 53264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613760726387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileK4Ql7L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760729793	Marionette	INFO	Listening on port 59171
+1613760730109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760761559	Marionette	INFO	Stopped listening on port 59171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614364320843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejfArmk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614364323784	Marionette	INFO	Listening on port 56486
+1614364324068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614364341921	Marionette	INFO	Stopped listening on port 56486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614970525869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile7KP1ey"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614970528760	Marionette	INFO	Listening on port 52308
+1614970529086	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1614970558962	Marionette	INFO	Stopped listening on port 52308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615573752963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile3W3we7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615573755832	Marionette	INFO	Listening on port 59483
+1615573756173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615573775666	Marionette	INFO	Stopped listening on port 59483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1616186996705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilemXl78K"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616187002773	Marionette	INFO	Listening on port 53131
+1616187003077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616187039918	Marionette	INFO	Stopped listening on port 53131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1616778706508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilesgO4p5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616778711862	Marionette	INFO	Listening on port 63520
+1616778711953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616778733129	Marionette	INFO	Stopped listening on port 63520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617401802795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilevFNAkw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617401807697	Marionette	INFO	Listening on port 50346
+1617401808155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617402093204	Marionette	INFO	Stopped listening on port 50346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617401928071	Marionette	INFO	Listening on port 50416
+1617401928487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617402092357	Marionette	INFO	Stopped listening on port 50416
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617401958434	Marionette	INFO	Listening on port 50489
+1617401958532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617402091833	Marionette	INFO	Stopped listening on port 50489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617402047600	Marionette	INFO	Listening on port 50593
+1617402047937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617402090936	Marionette	INFO	Stopped listening on port 50593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617999242435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehwoweB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617999247293	Marionette	INFO	Listening on port 49931
+1617999247771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617999275486	Marionette	INFO	Stopped listening on port 49931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1618606933166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile8XUeyO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618606938017	Marionette	INFO	Listening on port 62016
+1618606938536	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1618607020699	Marionette	INFO	Stopped listening on port 62016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1618688135359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5X0CwT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618688140580	Marionette	INFO	Listening on port 50792
+1618688140744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+1618688151808	Marionette	INFO	Stopped listening on port 50792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1618688159471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile1FiBHl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618688164097	Marionette	INFO	Listening on port 50931
+1618688164367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+1618688352196	Marionette	INFO	Stopped listening on port 50931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618688185157	Marionette	INFO	Listening on port 51070
+1618688185656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+1618688351275	Marionette	INFO	Stopped listening on port 51070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618688234666	Marionette	INFO	Listening on port 51226
+1618688235191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+1618688350364	Marionette	INFO	Stopped listening on port 51226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1618688359806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileCmU6Mn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618688365008	Marionette	INFO	Listening on port 51431
+1618688365199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: , line 0: NetworkError: A network error occurred.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/financial-advisor/christopher-stern line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/financial-advisor/edwardek-yun line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 2: ReferenceError: gtag is not defined
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+JavaScript error: https://www.edwardjones.com/us-en/search/financial-advisor/results?query=07666&distance=5000&page=1&view=list line 3261 > injectedScript, line 1: TypeError: a.data.includes is not a function
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+1618697260954	Marionette	INFO	Stopped listening on port 51431
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1619199620623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5PCVvR"
+1619199645343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile1LjxOy"
+1619199645759	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619199648138	Marionette	INFO	Listening on port 60164
+1619199648516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619199664227	Marionette	INFO	Stopped listening on port 60164
+1620094097764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehNhUO3"
+1620094099251	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620094104678	Marionette	INFO	Listening on port 54337
+1620094104813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620094122396	Marionette	INFO	Stopped listening on port 54337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620407649840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilebY6PkJ"
+1620407650715	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620407653863	Marionette	INFO	Listening on port 57454
+1620407654131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620407679749	Marionette	INFO	Stopped listening on port 57454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621637635740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileSgSxKn"
+1621637636786	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621637640678	Marionette	INFO	Listening on port 51853
+1621637641104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621637664424	Marionette	INFO	Stopped listening on port 51853
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624813924553	geckodriver	INFO	Listening on 127.0.0.1:55112
+1624813927614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilexcXSLn"
+1624813971278	geckodriver	INFO	Listening on 127.0.0.1:58929
+1624813974306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilebA9YOP"
+1624813974525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofilebA9YOP\\search.json.mozlz4", (void 0)))
+1624813976100	Marionette	INFO	Listening on port 58937
+1624813976370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624814007365	Marionette	INFO	Stopped listening on port 58937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625250065243	geckodriver	INFO	Listening on 127.0.0.1:58594
+1625250068334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileT2bnS9"
+1625250079638	geckodriver	INFO	Listening on 127.0.0.1:58648
+1625250082711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilebMVxZB"
+1625250082921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofilebMVxZB\\search.json.mozlz4", (void 0)))
+1625250084403	Marionette	INFO	Listening on port 58656
+1625250084764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625250091775	Marionette	INFO	Stopped listening on port 58656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625888114821	geckodriver	INFO	Listening on 127.0.0.1:58176
+1625888117916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilePkrTg9"
+1625888118878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofilePkrTg9\\search.json.mozlz4", (void 0)))
+1625888121501	Marionette	INFO	Listening on port 58184
+1625888121674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625888161369	Marionette	INFO	Stopped listening on port 58184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626459854331	geckodriver	INFO	Listening on 127.0.0.1:51618
+1626459857417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileV8sYkA"
+1626459857917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofileV8sYkA\\search.json.mozlz4", (void 0)))
+1626459859961	Marionette	INFO	Listening on port 51626
+1626459860103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626459870110	Marionette	INFO	Stopped listening on port 51626
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627070103373	geckodriver	INFO	Listening on 127.0.0.1:55505
+1627070106451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileX3YXHg"
+1627070106937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofileX3YXHg\\search.json.mozlz4", (void 0)))
+1627070108834	Marionette	INFO	Listening on port 55514
+1627070109143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627070143712	Marionette	INFO	Stopped listening on port 55514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628275168124	geckodriver	INFO	Listening on 127.0.0.1:62063
+1628275171188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilerDRHnK"
+1628275171683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofilerDRHnK\\search.json.mozlz4", (void 0)))
+1628275173234	Marionette	INFO	Listening on port 62071
+1628275173254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628275181749	Marionette	INFO	Stopped listening on port 62071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628874062769	geckodriver	INFO	Listening on 127.0.0.1:53714
+1628874065853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileKIOSfQ"
+1628874066578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofileKIOSfQ\\search.json.mozlz4", (void 0)))
+1628874069344	Marionette	INFO	Listening on port 59244
+1628874069590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628874100291	Marionette	INFO	Stopped listening on port 59244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofilePDOcly"
+1628874081140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofilePDOcly\\search.json.mozlz4", (void 0)))
+1628874083116	Marionette	INFO	Listening on port 59315
+1628874083496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628874099342	Marionette	INFO	Stopped listening on port 59315
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629483765861	geckodriver	INFO	Listening on 127.0.0.1:62510
+1629483768904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileYPjSiM"
+1629483769418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mlacroix_smartasset\\AppData\\Local\\Temp\\rust_mozprofileYPjSiM\\search.json.mozlz4", (void 0)))
+1629483771153	Marionette	INFO	Listening on port 62518
+1629483771598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629483780140	Marionette	INFO	Stopped listening on port 62518
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630088646634	geckodriver	INFO	Listening on 127.0.0.1:64331
+1630088649681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MLACRO~1\\AppData\\Local\\Temp\\rust_mozprofileCxkgZC"

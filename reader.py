@@ -22,7 +22,7 @@ with open(f'm{date}.csv', 'r') as stock_list:
 
 # import csv
 # from datetime import date
-# from iexfinance.stocks import Stock, get_historical_data
+# from iexfinance.stoc ks import Stock, get_historical_data
 
 # today = date.today()
 # date = today.strftime("%m_%d_%y")
